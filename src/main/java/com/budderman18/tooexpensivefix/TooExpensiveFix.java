@@ -1,4 +1,4 @@
-package com.budderman18.TooExpensiveFix;
+package com.budderman18.tooexpensivefix;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -12,7 +12,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * This class enables and disables the plugin
  * It also imports commands and handles events
  */
-public class Main extends JavaPlugin implements Listener { 
+public class TooExpensiveFix extends JavaPlugin implements Listener { 
     private final ConsoleCommandSender sender = getServer().getConsoleSender();
     private final String prefixMessage = ChatColor.translateAlternateColorCodes('&', "&a[&cTooExpensiveFix&a] ");
     /*
