@@ -4,4 +4,4 @@ Removes the "Too Expensive!" tag in anvils and makes all re-name costs only 1 le
 The actual "Too Expensive!" text CANNOT be removed, however you are still able to do the enchantment if you have enough levels. This unfortunatly means you can't see the amount of levels you need to do the enchant. THis cannot be fixed due to Bukkit API's limitations without some complicated, messy code that i'm not gonna bother with.
 
 ## What's different in this fork?
-This fork removes useless code and messages, and adds support for 1.13.0 through 1.19.4
+This fork removes useless code and messages, and adds support for 1.13.0 through 1.20.
